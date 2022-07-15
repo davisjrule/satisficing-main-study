@@ -4,3 +4,5 @@ interpret==0.2.2
 xgboost
 interpret-community
 lightgbm
+raiutils
+raiwidgets
