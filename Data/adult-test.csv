@@ -12,6 +12,7 @@
 36, Federal-gov,212465, Bachelors,13, Married-civ-spouse, Adm-clerical, Husband, White, Male,0,0,40, United-States,<=50K
 26, Private,82091, HS-grad,9, Never-married, Adm-clerical, Not-in-family, White, Female,0,0,39, United-States,<=50K
 58, ?,299831, HS-grad,9, Married-civ-spouse, ?, Husband, White, Male,0,0,35, United-States,<=50K
+43, Federal-gov,410867, Doctorate,16, Never-married, Prof-specialty, Not-in-family, White, Female,0,0,50, United-States, >50K
 48, Private,279724, HS-grad,9, Married-civ-spouse, Machine-op-inspct, Husband, White, Male,3103,0,48, United-States,>50K
 43, Private,346189, Masters,14, Married-civ-spouse, Exec-managerial, Husband, White, Male,0,0,50, United-States,>50K
 20, State-gov,444554, Some-college,10, Never-married, Other-service, Own-child, White, Male,0,0,25, United-States,<=50K
@@ -147,6 +148,7 @@
 44, Private,26669, Assoc-voc,11, Widowed, Exec-managerial, Unmarried, White, Female,0,0,30, United-States,<=50K
 33, Private,177727, HS-grad,9, Married-civ-spouse, Sales, Husband, White, Male,0,0,40, United-States,>50K
 55, Private,124771, Bachelors,13, Married-civ-spouse, Exec-managerial, Husband, White, Male,15024,0,50, United-States,>50K
+50, Local-gov,117496, Bachelors,13, Married-civ-spouse, Prof-specialty, Wife, White, Female,0,0,24, United-States, <=50K
 19, Private,456736, HS-grad,9, Never-married, Sales, Not-in-family, White, Male,2907,0,30, United-States,<=50K
 28, Private,216604, Some-college,10, Never-married, Other-service, Not-in-family, Black, Male,0,0,14, United-States,<=50K
 27, Private,221561,11th,7, Married-civ-spouse, Other-service, Wife, Black, Female,0,0,32, United-States,<=50K
@@ -216,6 +218,7 @@
 49, Private,37306, HS-grad,9, Married-civ-spouse, Machine-op-inspct, Husband, White, Male,0,0,40, United-States,<=50K
 33, Federal-gov,137814, HS-grad,9, Never-married, Other-service, Not-in-family, White, Male,0,0,32, United-States,<=50K
 21, Private,447488,5th-6th,3, Never-married, Machine-op-inspct, Other-relative, White, Male,0,0,38, Mexico,<=50K
+30, Federal-gov,59951, Some-college,10, Married-civ-spouse, Adm-clerical, Own-child, White, Male,0,0,40, United-States, <=50K
 31, Private,220915, Assoc-voc,11, Separated, Craft-repair, Not-in-family, White, Male,0,0,40, United-States,<=50K
 23, Private,42251, Bachelors,13, Never-married, Exec-managerial, Not-in-family, White, Female,0,0,45, United-States,<=50K
 34, Private,162312, Bachelors,13, Married-civ-spouse, Adm-clerical, Husband, Asian-Pac-Islander, Male,0,0,40, Philippines,<=50K
